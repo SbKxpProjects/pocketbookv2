@@ -1,4 +1,5 @@
 {
+  "name": "pocketbookv2",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
@@ -13,7 +14,8 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
-    "react-native-web": "~0.13.12"
+    "react-native-web": "~0.13.12",
+    "sequelize": "^6.6.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
