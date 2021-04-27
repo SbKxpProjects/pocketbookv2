@@ -7,6 +7,4 @@ const ChatMessage = db.define('chatMessage', {
     }
 })
 
-module.exports = {
-    ChatMessage
-}
+module.exports = ChatMessage

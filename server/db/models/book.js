@@ -26,6 +26,4 @@ const Book = db.define('book', {
 
 })
 
-module.exports = {
-    Book
-}
+module.exports = Book
